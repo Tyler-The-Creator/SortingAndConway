@@ -1,0 +1,6 @@
+C:\OzowAssessment\ConwaysGameOfLife\bin\Debug\ConwaysGameOfLife.exe.config
+C:\OzowAssessment\ConwaysGameOfLife\bin\Debug\ConwaysGameOfLife.exe
+C:\OzowAssessment\ConwaysGameOfLife\bin\Debug\ConwaysGameOfLife.pdb
+C:\OzowAssessment\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife.csproj.CoreCompileInputs.cache
+C:\OzowAssessment\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife.exe
+C:\OzowAssessment\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife.pdb
