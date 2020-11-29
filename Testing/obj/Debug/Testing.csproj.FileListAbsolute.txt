@@ -1,0 +1,17 @@
+C:\OzowAssessment\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\OzowAssessment\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\OzowAssessment\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\OzowAssessment\Testing\bin\Debug\Testing.dll
+C:\OzowAssessment\Testing\bin\Debug\Testing.pdb
+C:\OzowAssessment\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\OzowAssessment\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\OzowAssessment\Testing\bin\Debug\Sorting.exe
+C:\OzowAssessment\Testing\bin\Debug\Sorting.pdb
+C:\OzowAssessment\Testing\bin\Debug\Sorting.exe.config
+C:\OzowAssessment\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\OzowAssessment\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\OzowAssessment\Testing\obj\Debug\Testing.csprojAssemblyReference.cache
+C:\OzowAssessment\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\OzowAssessment\Testing\obj\Debug\Testing.csproj.CopyComplete
+C:\OzowAssessment\Testing\obj\Debug\Testing.dll
+C:\OzowAssessment\Testing\obj\Debug\Testing.pdb
