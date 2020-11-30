@@ -15,3 +15,6 @@ C:\OzowAssessment\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
 C:\OzowAssessment\Testing\obj\Debug\Testing.csproj.CopyComplete
 C:\OzowAssessment\Testing\obj\Debug\Testing.dll
 C:\OzowAssessment\Testing\obj\Debug\Testing.pdb
+C:\OzowAssessment\Testing\bin\Debug\ConwaysGameOfLife.exe
+C:\OzowAssessment\Testing\bin\Debug\ConwaysGameOfLife.pdb
+C:\OzowAssessment\Testing\bin\Debug\ConwaysGameOfLife.exe.config

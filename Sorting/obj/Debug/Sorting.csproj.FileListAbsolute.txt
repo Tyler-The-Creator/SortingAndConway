@@ -1,7 +1,6 @@
 C:\OzowAssessment\Sorting\bin\Debug\Sorting.exe.config
 C:\OzowAssessment\Sorting\bin\Debug\Sorting.exe
 C:\OzowAssessment\Sorting\bin\Debug\Sorting.pdb
-C:\OzowAssessment\Sorting\obj\Debug\Sorting.csprojAssemblyReference.cache
 C:\OzowAssessment\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
 C:\OzowAssessment\Sorting\obj\Debug\Sorting.exe
 C:\OzowAssessment\Sorting\obj\Debug\Sorting.pdb

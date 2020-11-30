@@ -57,6 +57,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ConwaysGameOfLife\ConwaysGameOfLife.csproj">
+      <Project>{630717ca-4f6f-4437-b27e-5ace3885771b}</Project>
+      <Name>ConwaysGameOfLife</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Sorting\Sorting.csproj">
       <Project>{2FB5C346-2242-4B76-8CC2-9477FDD46E32}</Project>
       <Name>Sorting</Name>
